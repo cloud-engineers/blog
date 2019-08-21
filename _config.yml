@@ -76,7 +76,7 @@ pagination_dir: page
 # theme: landscape
 theme: brewski
 theme_config:
-  logo:
+  logo: logo.jpeg
   google_analytics: UA-XXXXXXXX-X
   copyright:
     since: 2019
