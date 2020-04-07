@@ -80,12 +80,12 @@ theme_config:
   google_analytics: UA-XXXXXXXX-X
   copyright:
     since: 2019
-    name: Matt Reynolds
-    url: http://mattreynolds.io
+    name: Cloud Engineers LLC
+    url: https://cloudengineers.dev
   menu:
     Home: /
     About: /about
-    GitHub: https://github.com/SeriousMatt
+    GitHub: https://github.com/cloud-engineers
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
