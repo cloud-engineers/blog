@@ -3,8 +3,7 @@ title: Running NodeJS Autonomously
 date: 2020-04-15 09:45:52
 tags:
 ---
-In setting up an automatic deployment (Continuous Deployment) and automatic tests (Continuous Integration) as part of your deployment,
-you may need to run NodeJS projects as jobs that run on the server without manually being started by running `npm start` via an ssh session.
+In setting up an automatic deployment (Continuous Deployment) and automatic tests (Continuous Integration) as part of your deployment, you may need to run NodeJS projects as jobs that run on the server without manually being started by running `npm start` via an ssh session.
 
 Crontab can be a solution, perhaps even nohup (f.e. `nohup ping google.com &`) but there is an npm package called [forever](https://www.npmjs.com/package/forever) that could be more familiar for Javascript developers.
 
